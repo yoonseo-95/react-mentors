@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mentors/static/css/main.e6c13ad2.css",
+    "main.js": "/react-mentors/static/js/main.18ae28ba.js",
+    "static/js/787.d8a13f53.chunk.js": "/react-mentors/static/js/787.d8a13f53.chunk.js",
+    "index.html": "/react-mentors/index.html",
+    "main.e6c13ad2.css.map": "/react-mentors/static/css/main.e6c13ad2.css.map",
+    "main.18ae28ba.js.map": "/react-mentors/static/js/main.18ae28ba.js.map",
+    "787.d8a13f53.chunk.js.map": "/react-mentors/static/js/787.d8a13f53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.18ae28ba.js"
+  ]
+}
